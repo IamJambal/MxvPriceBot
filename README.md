@@ -2,9 +2,9 @@
 ### Create Telegram bot from https://t.me/BotFather
 ### Copy Api Key Telegram Bot from Botfather
 ### Change your api key to apitelegram.py
-### Install Requirements
+### Run
 * pip install -r req.txt
-* run bot.py
+* python3 bot.py
 <div align="center">
             <a href="https://www.buymeacoffee.com/jambal" target="_blank" style="display: inline-block;">
                 <img
